@@ -3,10 +3,10 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>白之旅</title>
-    <link>http://handsome607.github.io/project/</link>
+    <title>小白之旅</title>
+    <link>http://handsome607.github.io/</link>
     
-    <atom:link href="http://handsome607.github.io/project/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://handsome607.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Fri, 21 Jul 2023 11:13:49 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>hexo+Github搭建博客的小tips</title>
-      <link>http://handsome607.github.io/project/2023/07/21/first/</link>
-      <guid>http://handsome607.github.io/project/2023/07/21/first/</guid>
+      <link>http://handsome607.github.io/2023/07/21/first/</link>
+      <guid>http://handsome607.github.io/2023/07/21/first/</guid>
       <pubDate>Fri, 21 Jul 2023 05:51:12 GMT</pubDate>
       
       <description>&lt;p&gt;作为一位心血来潮想学习如何自己做博客的小白—笔者，选择了使用&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;和&lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;进行搭建，在搭建期间也遇到了一些问题，列举出来也以此为笔者的第一篇文章试试水&lt;strong&gt;(不是教程，只是一些小建议)&lt;/strong&gt;。写的不好还请读者见谅。（对于GitHub和Git的操作网上一大堆大家可以找一下）&lt;br&gt;</description>
@@ -27,14 +27,14 @@
       
       
       
-      <comments>http://handsome607.github.io/project/2023/07/21/first/#disqus_thread</comments>
+      <comments>http://handsome607.github.io/2023/07/21/first/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://handsome607.github.io/project/2023/07/20/hello-world/</link>
-      <guid>http://handsome607.github.io/project/2023/07/20/hello-world/</guid>
+      <link>http://handsome607.github.io/2023/07/20/hello-world/</link>
+      <guid>http://handsome607.github.io/2023/07/20/hello-world/</guid>
       <pubDate>Wed, 19 Jul 2023 16:49:52 GMT</pubDate>
       
       <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;</description>
@@ -46,7 +46,7 @@
       
       
       
-      <comments>http://handsome607.github.io/project/2023/07/20/hello-world/#disqus_thread</comments>
+      <comments>http://handsome607.github.io/2023/07/20/hello-world/#disqus_thread</comments>
       
     </item>
     
