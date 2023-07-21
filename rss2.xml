@@ -3,13 +3,13 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hexo</title>
+    <title>小白之旅</title>
     <link>http://handsome607.github.io/project/</link>
     
     <atom:link href="http://handsome607.github.io/project/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 21 Jul 2023 06:33:56 GMT</pubDate>
+    <pubDate>Fri, 21 Jul 2023 06:48:13 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -18,14 +18,11 @@
       <guid>http://handsome607.github.io/project/2023/07/21/first/</guid>
       <pubDate>Fri, 21 Jul 2023 05:51:12 GMT</pubDate>
       
-        
-        
-      <description>&lt;p&gt;作为一位心血来潮想学习如何自己做博客的小白—笔者，选择了使用&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;和&lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;进行搭建，在搭建期间也遇到了一些问题，列举出来也以此为笔者的第</description>
-        
+      <description>&lt;p&gt;作为一位心血来潮想学习如何自己做博客的小白—笔者，选择了使用&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;和&lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;进行搭建，在搭建期间也遇到了一些问题，列举出来也以此为笔者的第一篇文章试试水&lt;strong&gt;(不是教程，只是一些小建议)&lt;/strong&gt;。写的不好还请读者见谅。（对于GitHub和Git的操作网上一大堆大家可以找一下）&lt;br&gt;</description>
       
       
       
-      <content:encoded><![CDATA[<p>作为一位心血来潮想学习如何自己做博客的小白—笔者，选择了使用<a href="https://hexo.io/">Hexo</a>和<a href="https://github.com/">Github</a>进行搭建，在搭建期间也遇到了一些问题，列举出来也以此为笔者的第一篇文章试试水**(不是教程，只是一些小建议)**。写的不好还请读者见谅。（对于GitHub和Git的操作网上一大堆大家可以找一下）</p><h2 id="直入主题"><a href="#直入主题" class="headerlink" title="直入主题"></a>直入主题</h2><h3 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h3><p>毕竟是小白入场，所以对于域名的选择直接选择了大厂提供的，简便快捷，笔者选用的为阿里旗下的万网购买，选择了免费的.love(主要怕三分热度买了也白买，哈哈)</p><p><a href="https://wanwang.aliyun.com/?utm_content=se_1012679370">万网–阿里云官网</a></p><img src="/2023/07/21/first/1.png" class="" title="万网官网"><p>如果没有账号注册一个就行，我进入的时候直接是有一个免费推荐的，大家可以找一下，也可以一个一个试试，新人应该是有免费的。</p><h3 id="域名解析设置"><a href="#域名解析设置" class="headerlink" title="域名解析设置"></a>域名解析设置</h3><p>笔者随着网上教程进行操作后发现第一遍成功，后面再打开博客发现一片空白，有一部分原因是解析问题，因为Ping出来的自己Github的IP是不固定的，也在网上查找了一些教程，最终是增加解析，如图：</p><img src="/2023/07/21/first/yumingjiexi.png" class="" title="解析示例"><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>作为一位心血来潮想学习如何自己做博客的小白—笔者，选择了使用<a href="https://hexo.io/">Hexo</a>和<a href="https://github.com/">Github</a>进行搭建，在搭建期间也遇到了一些问题，列举出来也以此为笔者的第一篇文章试试水<strong>(不是教程，只是一些小建议)</strong>。写的不好还请读者见谅。（对于GitHub和Git的操作网上一大堆大家可以找一下）<br> <span id="more"></span></p><h2 id="直入主题"><a href="#直入主题" class="headerlink" title="直入主题"></a>直入主题</h2><h3 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h3><p>毕竟是小白入场，所以对于域名的选择直接选择了大厂提供的，简便快捷，笔者选用的为阿里旗下的万网购买，选择了免费的.love(主要怕三分热度买了也白买，哈哈)</p><p><a href="https://wanwang.aliyun.com/?utm_content=se_1012679370">万网–阿里云官网</a></p><img src="/2023/07/21/first/1.png" class="" title="万网官网"><p>如果没有账号注册一个就行，我进入的时候直接是有一个免费推荐的，大家可以找一下，也可以一个一个试试，新人应该是有免费的。</p><h3 id="域名解析设置"><a href="#域名解析设置" class="headerlink" title="域名解析设置"></a>域名解析设置</h3><p>笔者随着网上教程进行操作后发现第一遍成功，后面再打开博客发现一片空白，有一部分原因是解析问题，因为Ping出来的自己Github的IP是不固定的，也在网上查找了一些教程，最终是增加解析，如图：</p><img src="/2023/07/21/first/yumingjiexi.png" class="" title="解析示例">]]></content:encoded>
       
       
       
@@ -40,14 +37,11 @@
       <guid>http://handsome607.github.io/project/2023/07/20/hello-world/</guid>
       <pubDate>Wed, 19 Jul 2023 16:49:52 GMT</pubDate>
       
-        
-        
-      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</description>
-        
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;</description>
       
       
       
-      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.<br> <span id="more"></span></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
       
       
       
