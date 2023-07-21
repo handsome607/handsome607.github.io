@@ -1175,7 +1175,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #b5ffe2;
+  background: #ff6604;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1572,11 +1572,11 @@ pre .javascript .function {
   opacity: 0;
 }
 a:not(.btn) {
-  color: #90ee90;
+  color: #dc143c;
   border-bottom: none;
 }
 a:not(.btn):hover {
-  color: #00fa9a;
+  color: #00f;
   font-weight: bold;
   text-decoration: underline;
 }
