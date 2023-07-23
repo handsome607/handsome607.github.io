@@ -200,13 +200,11 @@
       <span class="post-meta-item-icon">
         <i class="far fa-comment"></i>
       </span>
-      <span class="post-meta-item-text">Changyan：</span>
+      <span class="post-meta-item-text">Valine：</span>
     
-    
-      <a title="changyan" href="/2023/07/21/first/#SOHUCS" itemprop="discussionUrl">
-        <span id="url::http://handsome607.github.io/project/2023/07/21/first/" class="cy_cmt_count" data-xid="2023/07/21/first/" itemprop="commentCount"></span>
-      </a>
-    
+    <a title="valine" href="/2023/07/21/first/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2023/07/21/first/" itemprop="commentCount"></span>
+    </a>
   </span>
   
   
@@ -501,8 +499,34 @@ setInterval("createtime()",250);
 
   
 
-  <script id="cy_cmt_num" src="https://changyan.sohu.com/upload/plugins/plugins.list.count.js?clientId=cywN3C4tk"></script>
 
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el         : '#valine-comments',
+      verify     : false,
+      notify     : true,
+      appId      : 'Qn1riOVuPrLAvYlIZrj7hAgM-gzGzoHsz',
+      appKey     : 'Jk7DWer71lTllfy0ZlWGY3tQ',
+      placeholder: "Just go go",
+      avatar     : 'mm',
+      meta       : guest,
+      pageSize   : '10' || 10,
+      visitor    : false,
+      lang       : 'zh-cn' || 'zh-cn',
+      path       : location.pathname,
+      recordIP   : true,
+      serverURLs : ''
+    });
+  }, window.Valine);
+});
+</script>
 
 </body>
 </html>
